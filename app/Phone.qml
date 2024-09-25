@@ -54,7 +54,7 @@ ApplicationWindow {
 
         TabImageButton {
             icon: "./images/ic_dialpad_48px.svg"
-            text: "Dialpad"
+            text: "HoangNguyen15"
             font.pixelSize: 50
         }
 
